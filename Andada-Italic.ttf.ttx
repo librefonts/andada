@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Andada-Italic.ttf.GlyphOrder.ttx"/>
+  <head src="Andada-Italic.ttf._h_e_a_d.ttx"/>
+  <hhea src="Andada-Italic.ttf._h_h_e_a.ttx"/>
+  <maxp src="Andada-Italic.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Andada-Italic.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Andada-Italic.ttf._h_m_t_x.ttx"/>
+  <cmap src="Andada-Italic.ttf._c_m_a_p.ttx"/>
+  <prep src="Andada-Italic.ttf._p_r_e_p.ttx"/>
+  <loca src="Andada-Italic.ttf._l_o_c_a.ttx"/>
+  <glyf src="Andada-Italic.ttf._g_l_y_f.ttx"/>
+  <name src="Andada-Italic.ttf._n_a_m_e.ttx"/>
+  <post src="Andada-Italic.ttf._p_o_s_t.ttx"/>
+  <gasp src="Andada-Italic.ttf._g_a_s_p.ttx"/>
+  <FFTM src="Andada-Italic.ttf.F_F_T_M_.ttx"/>
+  <GDEF src="Andada-Italic.ttf.G_D_E_F_.ttx"/>
+  <GPOS src="Andada-Italic.ttf.G_P_O_S_.ttx"/>
+  <GSUB src="Andada-Italic.ttf.G_S_U_B_.ttx"/>
+  <DSIG src="Andada-Italic.ttf.D_S_I_G_.ttx"/>
+</ttFont>
